@@ -1,0 +1,42 @@
+---
+canvas: "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.015132634261699,
+                    46.27249756111411
+                ]
+            },
+            "creator": {
+                "id": "AnMarlen",
+                "name": "AnMarlen"
+            },
+            "created": "2023-03-13T21:20:09.718Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2106.980224609375,3101.552001953125 2111.525634765625,3180.64306640625 2248.5131320290757,3172.7703140840254 2243.9677218728257,3093.6792496309004\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "57445d2a-6e13-4141-8067-90165a47e986.json",
+    "motivation": "commenting"
+}
